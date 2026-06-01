@@ -1,2 +1,2 @@
-# ada-dip-assests
+# ada-dip-assets
 DIP CE Images
